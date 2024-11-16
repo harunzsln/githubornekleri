@@ -1,2 +1,2 @@
-Merhaba arkadaslar git ve github kullanımını anlattıgım yazımı mediumyazımı profılımden okuyabilirsiniz 
+Merhaba arkadaslar git ve github kullanımını anlattıgım yazımı medium profilimden okuyabilirsiniz 
 medium kullanıcı ismi: harunzsln
